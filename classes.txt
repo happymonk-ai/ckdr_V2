@@ -1,0 +1,2 @@
+
+["fall down","pull (an object)","push (an object)","take (an object) from (a person)","push (another person)","put down","run/jog","climb (e.g., a mountain)","hit (an object)","shoot","fight/hit (a person)"]
